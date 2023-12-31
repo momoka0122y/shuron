@@ -1,0 +1,2250 @@
+{
+    "1003714": {
+        "RIPE Data": [
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1003714,
+                "From": "8.245.28.141",
+                "Destination Addr": "127.0.0.53",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.dstack.v4only.",
+                "vm.v4only.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v6only.v4only.",
+                "vm.v4only.v6only."
+            ],
+            "ns0v6only": [
+                "vm.dstack.v6only.",
+                "vm.v4only.v6only.",
+                "vm.v6only.v6only.",
+                "vm.v6only.dstack.",
+                "vm.v6only.v4only."
+            ],
+            "ns0dualstack": [
+                "vm.dstack.dstack.",
+                "vm.v4only.dstack.",
+                "vm.dstack.v4only.",
+                "vm.dstack.v6only.",
+                "vm.v6only.dstack."
+            ]
+        }
+    },
+    "1006213": {
+        "RIPE Data": [
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1006213,
+                "From": "92.255.84.36",
+                "Destination Addr": "172.17.0.1",
+                "Source Addr": "172.17.0.2",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.dstack.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v6only.v4only.",
+                "vm.v4only.v4only.",
+                "vm.v4only.v6only."
+            ],
+            "ns0v6only": [
+                "vm.dstack.v6only.",
+                "vm.v6only.dstack.",
+                "vm.v6only.v4only.",
+                "vm.v4only.v6only.",
+                "vm.v6only.v6only."
+            ],
+            "ns0dualstack": [
+                "vm.dstack.dstack.",
+                "vm.v4only.dstack.",
+                "vm.dstack.v4only.",
+                "vm.dstack.v6only.",
+                "vm.v6only.dstack."
+            ]
+        }
+    },
+    "1006352": {
+        "RIPE Data": [
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006352,
+                "From": "82.97.207.58",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "82.97.207.58",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.v4only.v4only.",
+                "vm.dstack.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v4only.v6only.",
+                "vm.v6only.v4only."
+            ],
+            "ns0v6only": [
+                "vm.dstack.v6only.",
+                "vm.v4only.v6only.",
+                "vm.v6only.dstack.",
+                "vm.v6only.v6only.",
+                "vm.v6only.v4only."
+            ],
+            "ns0dualstack": [
+                "vm.v4only.dstack.",
+                "vm.dstack.dstack.",
+                "vm.dstack.v6only.",
+                "vm.dstack.v4only.",
+                "vm.v6only.dstack."
+            ]
+        }
+    },
+    "1006500": {
+        "RIPE Data": [
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1006500,
+                "From": "50.68.56.168",
+                "Destination Addr": "127.0.0.11",
+                "Source Addr": "127.0.0.1",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.v4only.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v4only.v6only."
+            ],
+            "ns0v6only": [
+                "vm.v6only.v6only.",
+                "vm.v6only.dstack.",
+                "vm.v6only.v4only."
+            ],
+            "ns0dualstack": [
+                "vm.dstack.dstack.",
+                "vm.dstack.v6only.",
+                "vm.dstack.v4only."
+            ]
+        }
+    },
+    "1006613": {
+        "RIPE Data": [
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.2.6",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 1006613,
+                "From": "79.172.243.89",
+                "Destination Addr": "10.0.21.2",
+                "Source Addr": "10.0.2.15",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.dstack.v4only.",
+                "vm.v4only.v4only.",
+                "vm.v4only.dstack."
+            ],
+            "ns0v6only": [],
+            "ns0dualstack": [
+                "vm.v4only.dstack.",
+                "vm.dstack.dstack.",
+                "vm.dstack.v4only."
+            ]
+        }
+    },
+    "30219": {
+        "RIPE Data": [
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 30219,
+                "From": "60.234.104.69",
+                "Destination Addr": "192.168.88.1",
+                "Source Addr": "192.168.88.250",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.v4only.dstack.",
+                "vm.dstack.v4only.",
+                "vm.v4only.v4only.",
+                "vm.v6only.v4only.",
+                "vm.v4only.v6only."
+            ],
+            "ns0v6only": [
+                "vm.dstack.v6only.",
+                "vm.v4only.v6only.",
+                "vm.v6only.v6only.",
+                "vm.v6only.dstack.",
+                "vm.v6only.v4only."
+            ],
+            "ns0dualstack": [
+                "vm.v4only.dstack.",
+                "vm.dstack.dstack.",
+                "vm.dstack.v4only.",
+                "vm.dstack.v6only.",
+                "vm.v6only.dstack."
+            ]
+        }
+    },
+    "54161": {
+        "RIPE Data": [
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 54161,
+                "From": "74.67.128.249",
+                "Destination Addr": "192.168.2.1",
+                "Source Addr": "192.168.2.10",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.v4only.dstack.",
+                "vm.dstack.v4only.",
+                "vm.v4only.v4only."
+            ],
+            "ns0v6only": [],
+            "ns0dualstack": [
+                "vm.dstack.dstack.",
+                "vm.v4only.dstack.",
+                "vm.dstack.v4only."
+            ]
+        }
+    },
+    "62281": {
+        "RIPE Data": [
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "130.149.7.7",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62281,
+                "From": "141.23.28.170",
+                "Destination Addr": "192.129.31.50",
+                "Source Addr": "141.23.28.170",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.dstack.v4only.",
+                "vm.v4only.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v6only.v4only.",
+                "vm.v4only.v6only."
+            ],
+            "ns0v6only": [
+                "vm.dstack.v6only.",
+                "vm.v4only.v6only.",
+                "vm.v6only.v6only.",
+                "vm.v6only.v4only.",
+                "vm.v6only.dstack."
+            ],
+            "ns0dualstack": [
+                "vm.dstack.dstack.",
+                "vm.v4only.dstack.",
+                "vm.dstack.v4only.",
+                "vm.dstack.v6only.",
+                "vm.v6only.dstack."
+            ]
+        }
+    },
+    "62639": {
+        "RIPE Data": [
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.4.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62639,
+                "From": "80.6.86.142",
+                "Destination Addr": "194.168.8.100",
+                "Source Addr": "192.168.0.83",
+                "ANCOUNT": "1",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.v4only.v4only.",
+                "vm.dstack.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v6only.v4only.",
+                "vm.v4only.v6only."
+            ],
+            "ns0v6only": [
+                "vm.dstack.v6only.",
+                "vm.v4only.v6only.",
+                "vm.v6only.v6only.",
+                "vm.v6only.dstack.",
+                "vm.v6only.v4only."
+            ],
+            "ns0dualstack": [
+                "vm.dstack.dstack.",
+                "vm.dstack.v6only.",
+                "vm.dstack.v4only.",
+                "vm.v4only.dstack.",
+                "vm.v6only.dstack."
+            ]
+        }
+    },
+    "62657": {
+        "RIPE Data": [
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "dstack_v6only_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "dstack_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_dstack_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "1",
+                "Research Name": "v4only_v4only_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v4only_v6only_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_dstack_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v4only_AAAA"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_A"
+            },
+            {
+                "Probe ID": 62657,
+                "From": "24.89.89.155",
+                "Destination Addr": "192.168.0.1",
+                "Source Addr": "192.168.0.13",
+                "ANCOUNT": "0",
+                "Research Name": "v6only_v6only_AAAA"
+            }
+        ],
+        "Queried Domains": {
+            "ns0v4only": [
+                "vm.v4only.v4only.",
+                "vm.v4only.dstack."
+            ],
+            "ns0v6only": [],
+            "ns0dualstack": [
+                "vm.dstack.v4only.",
+                "vm.dstack.dstack."
+            ]
+        }
+    }
+}
