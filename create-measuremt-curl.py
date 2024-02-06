@@ -53,9 +53,10 @@ def generate_ripe_atlas_curl(api_key, probe_id, email):
     return curl_command
 
 # Example usage
-api_key = "4252c03d-e0b9-49b0-85e9-b9473c95ba92"
-probe_id = "10012"
-email = "momoka.my6@gmail.com"
+api_key = "a5427ff6-3f29-4ddb-8727-a30d3fa99a8f"
+email = "miki98765423@gmail.com"
+
+probe_id = "10039"
 curl_command = generate_ripe_atlas_curl(api_key, probe_id, email)
 print(curl_command)
 

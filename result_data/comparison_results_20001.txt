@@ -1,0 +1,1775 @@
+{
+    "1000090": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 29.6214496667,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 27.1273996667,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 29.6006896667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 30.4512836667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 29.5889556667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 31.0433,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 27.3527016667,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 27.397824,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 28.661477,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 22.023641,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 31.1483175,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "45.77.57.71",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1000090,
+                "From": "2001:19f0:7402:28c:5400:1ff:fe43:1ec",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 34.1689255,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "1001562": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 267.2965096667,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 280.5626723333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 267.7444943333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 281.4741766667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "DNS failure",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "DNS failure",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 268.0731633333,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 275.3923883333,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "DNS failure",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "DNS failure",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "DNS failure",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "202.90.75.80",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1001562,
+                "From": "2405:cc00:3010:11d1:526b:8dff:fe85:1d23",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "DNS failure",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "1004549": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 23.8800016667,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 21.0155773333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 21.540156,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 20.161432,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 24.0501553333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 23.4600406667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 20.3649623333,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 21.4551573333,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 26.109674,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 25.712443,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 23.703358,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "91.42.96.248",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1004549,
+                "From": "2003:e1:d703:e800:4e72:b9ff:fe31:b3a0",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 20.1355466667,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "1006872": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 34.782829,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 35.6785576667,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 34.754196,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 35.7460083333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 34.79934,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 35.979362,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 35.7034896667,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 35.6119166667,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 43.1561956667,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 35.298216,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 33.035075,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "87.44.2.231",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 1006872,
+                "From": "2001:770:1c:704:a803:3ff:fe6d:2156",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 33.6361253333,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "51088": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 256.321736,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 263.9792913333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 265.0333753333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 274.7120833333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 266.611903,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 267.625014,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 260.1319026667,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 261.0676943333,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 274.2444303333,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "172.16.2.53",
+                "Average RTT": -1,
+                "Status": "Wrong Address from DNS",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 265.4565973333,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "172.16.2.53",
+                "Average RTT": -1,
+                "Status": "Wrong Address from DNS",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 264.1066393333,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 51088,
+                "From": "159.196.161.216",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "172.16.2.53",
+                "Average RTT": -1,
+                "Status": "Wrong Address from DNS",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 51088,
+                "From": "2403:5808:2003:1:1:8fff:fe81:7e7d",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 274.7088335,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "61008": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 129.3626483333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 121.2896513333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 120.7959663333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 117.7085156667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 127.149013,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 120.7451103333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 143.0373893333,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 143.127662,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 136.8556606667,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 122.840497,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 122.329638,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 61008,
+                "From": "24.63.251.161",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 61008,
+                "From": "2601:184:407f:81bd:da58:d7ff:fe03:48",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 119.7547533333,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "62031": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 53.971735,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 62.7434333333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 51.8409096667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 60.4861426667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 60.4014136667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 46.5915346667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 53.838762,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 59.5376746667,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 79.6191626667,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 50.3983133333,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 49.3750916667,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62031,
+                "From": "80.151.245.144",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62031,
+                "From": "2003:a:1735:9000:da58:d7ff:fe03:371",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 50.550435,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "62221": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 189.3866996667,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 191.485335,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 192.977907,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 186.3450993333,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 191.5298446667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 185.6906326667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 190.461219,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 187.5339463333,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 178.32026,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 183.935138,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 184.72236,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62221,
+                "From": "76.133.131.57",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62221,
+                "From": "2601:644:937f:8ce0:da58:d7ff:fe03:2cf",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 321.231015,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    },
+    "62556": {
+        "RIPE DNS Data": [],
+        "RIPE Ping Data": [
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 40.816092,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.dstack.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 44.7696983333,
+                "Status": "Ping success",
+                "Research Name": "dstack_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 43.000447,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.dstack.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 47.59955,
+                "Status": "Ping success",
+                "Research Name": "dstack_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.85",
+                "Average RTT": 43.9684796667,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.dstack.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:85",
+                "Average RTT": 46.54631,
+                "Status": "Ping success",
+                "Research Name": "dstack_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 57.8156876667,
+                "Status": "Ping success",
+                "Research Name": "v4only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.v4only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 52.1484353333,
+                "Status": "Ping success",
+                "Research Name": "v4only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.v4only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "141.39.220.84",
+                "Average RTT": 60.482859,
+                "Status": "Ping success",
+                "Research Name": "v4only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.v4only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v4only_v6only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_dstack_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.v6only.dstack.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 45.238273,
+                "Status": "Ping success",
+                "Research Name": "v6only_dstack_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v4only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.v6only.v4only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 45.2747026667,
+                "Status": "Ping success",
+                "Research Name": "v6only_v4only_AAAA_ping",
+                "Address Family": 6
+            },
+            {
+                "Probe ID": 62556,
+                "From": "92.161.21.149",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": null,
+                "Average RTT": -1,
+                "Status": "No Address Family on Domain",
+                "Research Name": "v6only_v6only_A_ping",
+                "Address Family": 4
+            },
+            {
+                "Probe ID": 62556,
+                "From": "2a01:cb14:d0:6900:da58:d7ff:fe03:b8d",
+                "Destination Name": "RIPE-20001.vm.v6only.v6only.measurement.dnsv6-atlas-res.measurement.network.",
+                "Destination Addr": "2a0d:8d04:a100:0:141:39:220:83",
+                "Average RTT": 46.4760366667,
+                "Status": "Ping success",
+                "Research Name": "v6only_v6only_AAAA_ping",
+                "Address Family": 6
+            }
+        ],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            }
+        }
+    }
+}

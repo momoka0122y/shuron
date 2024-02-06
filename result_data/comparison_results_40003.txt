@@ -1,0 +1,972 @@
+{
+    "55346": {
+        "RIPE DNS Data": [
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "yCeBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "6giBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "LS2BgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACFAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:85",
+                "Research Name": "dstack_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "IMWBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACFAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:85",
+                "Research Name": "dstack_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "uC6BgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "PdqBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "dpCBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACFAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:85",
+                "Research Name": "dstack_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "7fWBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4PABAqDY0EoQAAAAFBADkCIACFAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:85",
+                "Research Name": "dstack_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "Y7WBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "TxaBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "lGmBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACFAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:85",
+                "Research Name": "dstack_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "vkmBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACFAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:85",
+                "Research Name": "dstack_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "FqGBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "O1uBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "9giBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v4only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "0XWBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v4only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "MpaBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "gwmBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "OKCBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0MzcKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v4only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "9syBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0MzgKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v4only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "Km2BgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "fx+BgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "KgmBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v4only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "nuaBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v4only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "Q26BgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v6only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "TdWBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v6only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "R9SBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACDAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:83",
+                "Research Name": "v6only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "N06BgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACDAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:83",
+                "Research Name": "v6only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "H8yBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v6only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "XZ+BgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v6only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "jnSBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACDAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:83",
+                "Research Name": "v6only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "3reBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACDAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:83",
+                "Research Name": "v6only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "kwyBgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v6only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "0",
+                "abuf": "5w6BgAABAAAAAQABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAAcIADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkCAAAAAAAADQADAAlncGRucy1tYWQ=",
+                "Answer Address": "",
+                "Research Name": "v6only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.8.8",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "AIKBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACDAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:83",
+                "Research Name": "v6only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55346,
+                "From": "92.191.100.11",
+                "Destination Addr": "8.8.4.4",
+                "Source Addr": "10.0.0.52",
+                "ANCOUNT": "1",
+                "abuf": "+wKBgAABAAEAAAABBTU1MzQ2CjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAAcAAEAAA4QABAqDY0EoQAAAAFBADkCIACDAAApAgAAAAAAAA0AAwAJZ3BkbnMtbWFk",
+                "Answer Address": "2a0d:8d04:a100:0:141:39:220:83",
+                "Research Name": "v6only_v6only_AAAA_dns"
+            }
+        ],
+        "RIPE Ping Data": [],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [
+                    "vm.dstack.v4only.",
+                    "vm.v4only.v4only.",
+                    "vm.v4only.dstack.",
+                    "vm.v4only.v6only.",
+                    "vm.v6only.v4only."
+                ],
+                "ns0v6only": [],
+                "ns0dualstack": [
+                    "vm.dstack.dstack.",
+                    "vm.dstack.v4only.",
+                    "vm.dstack.v6only.",
+                    "vm.v4only.dstack.",
+                    "vm.v6only.dstack."
+                ]
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [
+                    "vm.dstack.v6only.",
+                    "vm.v4only.v6only.",
+                    "vm.v6only.dstack.",
+                    "vm.v6only.v6only.",
+                    "vm.v6only.v4only."
+                ],
+                "ns0dualstack": [
+                    "vm.dstack.dstack.",
+                    "vm.v4only.dstack.",
+                    "vm.dstack.v4only.",
+                    "vm.dstack.v6only.",
+                    "vm.v6only.dstack."
+                ]
+            }
+        }
+    },
+    "55823": {
+        "RIPE DNS Data": [
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "QouBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "ouWBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "pKOBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "18WAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "D82AgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "wiuAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZkc3RhY2sGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "RXmBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "TieBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "p72BgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "j5qAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "UY+AgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "yJKAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "1IOBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "CKiBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "rq+BgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xVAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.85",
+                "Research Name": "dstack_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "VyeAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "L66AgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "ILqAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZkc3RhY2sGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "dstack_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "pOeBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "ryWBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "kMOBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "NOSAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "ZQCAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "qg+AgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZ2NG9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "SGeBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "pR2BgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "ja2BgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "LHOAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDAKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "C8uAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDEKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "v+yAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDIKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "ed2BgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "BKuBgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "1",
+                "abuf": "kM6BgAABAAEAAAABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHADAABAAEAAA4QAASNJ9xUAAApBNAAAAAAAAA=",
+                "Answer Address": "141.39.220.84",
+                "Research Name": "v4only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "5y+AgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "D92AgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "KciAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2NG9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v4only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "hnWBgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "d9OBgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "TK2BgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_dstack_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "v1aAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "XuSAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "RfqAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGZHN0YWNrC21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_dstack_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "9smBgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "MHSBgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "DB6BgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_v4only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "2viAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "SCWAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "zqKAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjRvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_v4only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "ln2BgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "vD6BgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "0",
+                "abuf": "FUCBgAABAAAAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAABAAHAKwAGAAEAAA4QADYDbnMwwCsFYWJ1c2ULbWVhc3VyZW1lbnQHbmV0d29ya8AyeJZfPQAAcIAAABwgAAk6gAABUYAAACkE0AAAAAAAAA==",
+                "Answer Address": "",
+                "Research Name": "v6only_v6only_A_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "192.168.90.1",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "m7KAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDQKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.220.123",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "n6qAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDUKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_v6only_AAAA_dns"
+            },
+            {
+                "Probe ID": 55823,
+                "From": "89.217.219.22",
+                "Destination Addr": "208.67.222.222",
+                "Source Addr": "192.168.90.140",
+                "ANCOUNT": "-2",
+                "abuf": "a2SAgAABAAEAAQABBTU1ODIzCjE3MDQ0Mzg0NDYKUklQRS00MDAwMwJ2bQZ2Nm9ubHkGdjZvbmx5C21lYXN1cmVtZW50D2Ruc3Y2LWF0bGFzLXJlcwttZWFzdXJlbWVudAduZXR3b3JrAAAcAAHADAANAAEAAVGAAGk4QUFBQSBxdWVyaWVzIGhhdmUgYmVlbiBsb2NhbGx5IGJsb2NrZWQgYnkgZG5zY3J5cHQtcHJveHkvU2V0IGJsb2NrX2lwdjYgdG8gZmFsc2UgdG8gZGlzYWJsZSB0aGF0IGZlYXR1cmXAEgAGAAEAAAA8ADMBYQxyb290LXNlcnZlcnMDbmV0AAFoB2ludmFsaWQAAAAAAQAAJxAAAAEsAAk6gAAACWAAACkCAAAAAAAAAA==",
+                "Answer Address": "\\# 105 384141414120717565726965732068617665206265656E206C6F63616C6C7920626C6F636B656420627920646E7363727970742D70726F78792F53657420626C6F636B5F6970763620746F2066616C736520746F2064697361626C6520746861742066656174757265",
+                "Research Name": "v6only_v6only_AAAA_dns"
+            }
+        ],
+        "RIPE Ping Data": [],
+        "Queried Domains": {
+            "4": {
+                "ns0v4only": [
+                    "vm.v4only.dstack.",
+                    "vm.v4only.v4only.",
+                    "vm.v4only.v6only."
+                ],
+                "ns0v6only": [],
+                "ns0dualstack": []
+            },
+            "6": {
+                "ns0v4only": [],
+                "ns0v6only": [
+                    "vm.v6only.dstack.",
+                    "vm.v6only.v4only.",
+                    "vm.v6only.v6only."
+                ],
+                "ns0dualstack": [
+                    "vm.dstack.v4only.",
+                    "vm.dstack.v6only.",
+                    "vm.dstack.dstack."
+                ]
+            }
+        }
+    }
+}
